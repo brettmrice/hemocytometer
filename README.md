@@ -1,6 +1,6 @@
 # Virtual Hemocytometer (Phase Contrast)
 
-Each "side" (1 and 2) image show a full 0.2mm x 0.2mm square section of the hemocytometer - perimeter marked by a triple line. Examples of red blood cells, R, and white blood cells, W, are given.
+Each "side" (1 and 2) image show a full 0.2mm x 0.2mm square section of the hemocytometer - perimeter marked by a triple line. Examples of red blood cells, labelled "R", and white blood cells, labelled "W", are given.
 
 Image is of a body fluid.
 
