@@ -11,4 +11,4 @@ The images were captured with an iPhone SE 2nd Gen and further editted in MSPain
 Future Project Ideas:
 - Platelet view
 - Entire hemocytometer view
-- More fluid types (so more cell morphologies)
+- More fluid types (more cell morphologies)
